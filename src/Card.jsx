@@ -41,7 +41,7 @@ function Card() {
   return (
     <div
       id=""
-      className="mt-20 ml-16 mr-10 bg-red-300 grid grid-cols-2 gap-1"
+      className="mt-20 ml-16 mr-10 bg-zinc-800 grid grid-cols-2 gap-1"
     >
       <img id="img"
         className="w-4/5 h-80 bg-cover bg=auto overflow-auto bg-zinc-300 mt-14 ml-10 p-2 rounded scroll-smooth"
